@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
+      "projectUniqueName": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
       "projectName": "BooksAPP",
-      "projectPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
+      "projectPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
       "packagesPath": "C:\\Users\\tudip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\obj\\",
+      "outputPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tudip\\AppData\\Roaming\\NuGet\\NuGet.Config",

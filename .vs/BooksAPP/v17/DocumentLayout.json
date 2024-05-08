@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\",
+  "WorkspaceRootPath": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Migrations\\20240508070054_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooksAPP\\Migrations\\20240508070054_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\model\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\model\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\booksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\booksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\booksapp\\booksapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\model\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\model\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\booksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\booksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|c:\\users\\tudip\\onedrive\\desktop\\devesh\\entityframework-webapi\\booksapp\\booksapp\\migrations\\20240508070054_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5457E-C016-4DD8-B9E8-C53504E8689E}|BooksAPP\\BooksAPP.csproj|solutionrelative:booksapp\\migrations\\20240508070054_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,118 +52,110 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Controllers\\BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "BooksAPP\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Controllers\\BrandController.cs",
               "RelativeToolTip": "BooksAPP\\Controllers\\BrandController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAmwB0AAAAAAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwFoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T07:06:21.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240508070054_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Migrations\\20240508070054_Initial.cs",
-              "RelativeDocumentMoniker": "BooksAPP\\Migrations\\20240508070054_Initial.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Migrations\\20240508070054_Initial.cs",
-              "RelativeToolTip": "BooksAPP\\Migrations\\20240508070054_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Program.cs",
+              "RelativeDocumentMoniker": "BooksAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Program.cs",
+              "RelativeToolTip": "BooksAPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T07:00:54.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T06:50:49.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Program.cs",
-              "RelativeDocumentMoniker": "BooksAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Program.cs",
-              "RelativeToolTip": "BooksAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:50:49.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BooksAPP\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\appsettings.Development.json",
               "RelativeToolTip": "BooksAPP\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T06:45:39.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BrandContext.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Model\\BrandContext.cs",
-              "RelativeDocumentMoniker": "BooksAPP\\Model\\BrandContext.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Model\\BrandContext.cs",
-              "RelativeToolTip": "BooksAPP\\Model\\BrandContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:40:59.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T06:45:39.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Model\\Brand.cs",
-              "RelativeDocumentMoniker": "BooksAPP\\Model\\Brand.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Model\\Brand.cs",
-              "RelativeToolTip": "BooksAPP\\Model\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Title": "BrandContext.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Model\\BrandContext.cs",
+              "RelativeDocumentMoniker": "BooksAPP\\Model\\BrandContext.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Model\\BrandContext.cs",
+              "RelativeToolTip": "BooksAPP\\Model\\BrandContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:36:21.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T06:40:59.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BooksAPP",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
-              "RelativeDocumentMoniker": "BooksAPP\\BooksAPP.csproj",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
-              "RelativeToolTip": "BooksAPP\\BooksAPP.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-08T06:35:48.234Z",
-              "EditorCaption": ""
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "BooksAPP\\Model\\Brand.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Model\\Brand.cs",
+              "RelativeToolTip": "BooksAPP\\Model\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:36:21.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BooksAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
+              "RelativeDocumentMoniker": "BooksAPP\\BooksAPP.csproj",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\BooksAPP.csproj",
+              "RelativeToolTip": "BooksAPP\\BooksAPP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T06:35:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BooksAPP\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "BooksAPP\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:35:37.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T06:35:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BooksAPP\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\WeatherForecast.cs",
+              "RelativeToolTip": "BooksAPP\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:35:31.112Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "BooksAPP\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\BooksAPP\\BooksAPP\\WeatherForecast.cs",
-              "RelativeToolTip": "BooksAPP\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Title": "20240508070054_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Migrations\\20240508070054_Initial.cs",
+              "RelativeDocumentMoniker": "BooksAPP\\Migrations\\20240508070054_Initial.cs",
+              "ToolTip": "C:\\Users\\tudip\\OneDrive\\Desktop\\Devesh\\EntityFramework-WebAPI\\BooksAPP\\BooksAPP\\Migrations\\20240508070054_Initial.cs",
+              "RelativeToolTip": "BooksAPP\\Migrations\\20240508070054_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:35:31.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T07:00:54.851Z"
             }
           ]
         }

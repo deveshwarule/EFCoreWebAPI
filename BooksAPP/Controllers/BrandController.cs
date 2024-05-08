@@ -1,6 +1,7 @@
 ﻿using BooksAPP.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient.DataClassification;
 using Microsoft.EntityFrameworkCore;
 
 namespace BooksAPP.Controllers
@@ -52,6 +53,59 @@ namespace BooksAPP.Controllers
             await _dbContext.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetBrandsByID), new {id = brand.ID}, brand);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> PutBrand(int id, Brand brand)
+        {
+            if (id != brand.ID)
+            {
+                return BadRequest();
+            }
+            _dbContext.Entry(brand).State = EntityState.Modified;
+
+            try
+            {
+                await _dbContext.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!BrandAvailable(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+            return Ok();
+        }
+
+        private bool BrandAvailable(int id)
+        {
+            return (_dbContext.Brands?.Any(b => b.ID == id)).GetValueOrDefault();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteBrand(int id)
+        {
+            if (_dbContext.Brands == null)
+            {
+                return NotFound();
+            }
+            var brand = await _dbContext.Brands.FindAsync(id);
+
+            if (brand == null)
+            {
+                return NotFound();
+            }
+
+            _dbContext.Brands.Remove(brand);
+            await _dbContext.SaveChangesAsync();
+            return Ok();
+
+
         }
     }
 }
